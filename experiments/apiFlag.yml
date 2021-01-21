@@ -3,5 +3,5 @@ type: experiment
 flag: apiFlag
 availableValues:
   - str1
-  - str2
-value: str1
+  - str3
+value: str3
