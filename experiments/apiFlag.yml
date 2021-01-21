@@ -1,0 +1,7 @@
+# This file was edited by Cloudbees Feature Flags
+type: experiment
+flag: apiFlag
+availableValues:
+  - str1
+  - str2
+value: str1
