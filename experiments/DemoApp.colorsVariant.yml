@@ -6,4 +6,8 @@ availableValues:
   - 12a
   - ''
 conditions:
-  - value: 12a
+  - value:
+      - percentage: 50
+        option: 12a
+      - percentage: 50
+        option: ''
