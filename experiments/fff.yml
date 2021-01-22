@@ -1,0 +1,7 @@
+# This file was edited by Cloudbees Feature Flags
+type: experiment
+flag: fff
+availableValues:
+  - 4
+  - 6
+value: 6
