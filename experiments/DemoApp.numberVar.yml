@@ -1,6 +1,7 @@
 # This file was edited by Cloudbees Feature Flags
 type: experiment
-labels: lbl
 enabled: false
-flag: baba
-value: false
+flag: DemoApp.numberVar
+availableValues:
+  - 345
+  - 234
